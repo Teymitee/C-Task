@@ -1,0 +1,15 @@
+C:\Users\ask4t\source\repos\Next20LeapYears\bin\Debug\net6.0\Next20LeapYears.exe
+C:\Users\ask4t\source\repos\Next20LeapYears\bin\Debug\net6.0\Next20LeapYears.deps.json
+C:\Users\ask4t\source\repos\Next20LeapYears\bin\Debug\net6.0\Next20LeapYears.runtimeconfig.json
+C:\Users\ask4t\source\repos\Next20LeapYears\bin\Debug\net6.0\Next20LeapYears.dll
+C:\Users\ask4t\source\repos\Next20LeapYears\bin\Debug\net6.0\Next20LeapYears.pdb
+C:\Users\ask4t\source\repos\Next20LeapYears\obj\Debug\net6.0\Next20LeapYears.csproj.AssemblyReference.cache
+C:\Users\ask4t\source\repos\Next20LeapYears\obj\Debug\net6.0\Next20LeapYears.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ask4t\source\repos\Next20LeapYears\obj\Debug\net6.0\Next20LeapYears.AssemblyInfoInputs.cache
+C:\Users\ask4t\source\repos\Next20LeapYears\obj\Debug\net6.0\Next20LeapYears.AssemblyInfo.cs
+C:\Users\ask4t\source\repos\Next20LeapYears\obj\Debug\net6.0\Next20LeapYears.csproj.CoreCompileInputs.cache
+C:\Users\ask4t\source\repos\Next20LeapYears\obj\Debug\net6.0\Next20LeapYears.dll
+C:\Users\ask4t\source\repos\Next20LeapYears\obj\Debug\net6.0\refint\Next20LeapYears.dll
+C:\Users\ask4t\source\repos\Next20LeapYears\obj\Debug\net6.0\Next20LeapYears.pdb
+C:\Users\ask4t\source\repos\Next20LeapYears\obj\Debug\net6.0\Next20LeapYears.genruntimeconfig.cache
+C:\Users\ask4t\source\repos\Next20LeapYears\obj\Debug\net6.0\ref\Next20LeapYears.dll
